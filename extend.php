@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Zeglup\\FlarumWolfa;
+namespace Zeglup\FlarumWolfa;
 
 use Flarum\Extend;
 

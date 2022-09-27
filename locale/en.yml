@@ -2,6 +2,6 @@ zeglup-wolfa:
   # For more details on the format
   # Checkout https://docs.flarum.org/extend/i18n/#appendix-a-standard-key-format
   admin:
-    my_cool_key: My Cool Key
+    wolfa-pilots: Gestion des pilotes
 
   forum:
